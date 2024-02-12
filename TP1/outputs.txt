@@ -1,0 +1,25 @@
+Modalidades: 
+ - Andebol
+ - Atletismo
+ - BTT
+ - Badminton
+ - Basquetebol
+ - Ciclismo
+ - Dança
+ - Equitação
+ - Esgrima
+ - Futebol
+ - Karaté
+ - Orientação
+ - Parapente
+ - Patinagem
+ - Triatlo
+
+Atletas Aptos = 45.67%
+Atletas Inaptos = 54.33%
+
+Escalões: 
+20-24 = 26.67%
+25-29 = 34.00%
+30-34 = 34.67%
+35-39 = 4.67%
