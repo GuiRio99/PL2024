@@ -3,7 +3,6 @@ import os
 file = open('emd.csv', 'r')
 next(file)
 
-data = []
 modalidade = []
 escalao = [0] * 20
 federados = 0
@@ -22,7 +21,6 @@ for line in file:
     if dados[8] not in modalidade:
         modalidade.append(dados[8])
     escalao[pos] += 1
-    data.append(line)
 
 
 def aptidao_atletas():
